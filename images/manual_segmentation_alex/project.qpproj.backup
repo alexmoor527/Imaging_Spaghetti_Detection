@@ -1,0 +1,713 @@
+{
+  "version": "0.5.1",
+  "createTimestamp": 1747895268982,
+  "modifyTimestamp": 1747895268982,
+  "uri": "file:/home/alex/Masters/Imaging/Output_QuPath/Output/project.qpproj",
+  "lastID": 11,
+  "images": [
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/home/alex/Masters/Imaging/Spaghetti_Detection/raw_images/downloaded_from_source/train/aqa2x0p6omj61_jpg.rf.c29cce13a67c5b4e09946346681ed3bf.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "aqa2x0p6omj61_jpg.rf.c29cce13a67c5b4e09946346681ed3bf.jpg",
+          "width": 640,
+          "height": 640,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 640,
+              "height": 640
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 640,
+          "preferredTileHeight": 640
+        }
+      },
+      "entryID": 1,
+      "randomizedName": "83b10df3-8b03-4f9b-944d-702e8451fde1",
+      "imageName": "aqa2x0p6omj61_jpg.rf.c29cce13a67c5b4e09946346681ed3bf.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/home/alex/Masters/Imaging/Spaghetti_Detection/raw_images/downloaded_from_source/train/imag-33-_jpg.rf.b622576485c907754e8ec87e4e5360f8.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "imag-33-_jpg.rf.b622576485c907754e8ec87e4e5360f8.jpg",
+          "width": 640,
+          "height": 640,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 640,
+              "height": 640
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 640,
+          "preferredTileHeight": 640
+        }
+      },
+      "entryID": 2,
+      "randomizedName": "3548ec83-b497-4602-af63-4a60113cda5e",
+      "imageName": "imag-33-_jpg.rf.b622576485c907754e8ec87e4e5360f8.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/home/alex/Masters/Imaging/Spaghetti_Detection/raw_images/downloaded_from_source/train/imag-40-_jpg.rf.a0f6314eadd3651068a19fea07cb7b57.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "imag-40-_jpg.rf.a0f6314eadd3651068a19fea07cb7b57.jpg",
+          "width": 640,
+          "height": 640,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 640,
+              "height": 640
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 640,
+          "preferredTileHeight": 640
+        }
+      },
+      "entryID": 3,
+      "randomizedName": "4838825e-9b0e-4dc4-a017-7722ec872b97",
+      "imageName": "imag-40-_jpg.rf.a0f6314eadd3651068a19fea07cb7b57.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/home/alex/Masters/Imaging/Spaghetti_Detection/raw_images/downloaded_from_source/train/imag-63-_jpg.rf.06babf32f9fbcb337de4dc021382b0cf.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "imag-63-_jpg.rf.06babf32f9fbcb337de4dc021382b0cf.jpg",
+          "width": 640,
+          "height": 640,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 640,
+              "height": 640
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 640,
+          "preferredTileHeight": 640
+        }
+      },
+      "entryID": 4,
+      "randomizedName": "f537d273-5449-44d9-86b5-da02690f8308",
+      "imageName": "imag-63-_jpg.rf.06babf32f9fbcb337de4dc021382b0cf.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/home/alex/Masters/Imaging/Spaghetti_Detection/raw_images/downloaded_from_source/train/1eck6nhkygo71_jpg.rf.5d29bc9544bbcfe1c3adc2868d848036.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "1eck6nhkygo71_jpg.rf.5d29bc9544bbcfe1c3adc2868d848036.jpg",
+          "width": 640,
+          "height": 640,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 640,
+              "height": 640
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 640,
+          "preferredTileHeight": 640
+        }
+      },
+      "entryID": 5,
+      "randomizedName": "7fc7a268-720f-4ffa-bcba-f9b120a8ac5a",
+      "imageName": "1eck6nhkygo71_jpg.rf.5d29bc9544bbcfe1c3adc2868d848036.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/home/alex/Masters/Imaging/Spaghetti_Detection/raw_images/downloaded_from_source/train/spaghetti_73_jpg.rf.5c6d77c9cee2ba4df4e3052c8e9ecdc3.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "spaghetti_73_jpg.rf.5c6d77c9cee2ba4df4e3052c8e9ecdc3.jpg",
+          "width": 640,
+          "height": 640,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 640,
+              "height": 640
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 640,
+          "preferredTileHeight": 640
+        }
+      },
+      "entryID": 6,
+      "randomizedName": "778c8a6a-8d7b-45a3-a416-2b0ac643c5e7",
+      "imageName": "spaghetti_73_jpg.rf.5c6d77c9cee2ba4df4e3052c8e9ecdc3.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/home/alex/Masters/Imaging/Spaghetti_Detection/raw_images/downloaded_from_source/train/spaghetti_101_jpg.rf.9634110b18fe5e71963b5758f3588a51.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "spaghetti_101_jpg.rf.9634110b18fe5e71963b5758f3588a51.jpg",
+          "width": 640,
+          "height": 640,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 640,
+              "height": 640
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 640,
+          "preferredTileHeight": 640
+        }
+      },
+      "entryID": 7,
+      "randomizedName": "f5f3ecc7-6adb-478b-8296-cefff8f8d52d",
+      "imageName": "spaghetti_101_jpg.rf.9634110b18fe5e71963b5758f3588a51.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/home/alex/Masters/Imaging/Spaghetti_Detection/raw_images/downloaded_from_source/train/spaghetti_119_jpg.rf.ae83c5dd4200e8e81a84f7c528290fed.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "spaghetti_119_jpg.rf.ae83c5dd4200e8e81a84f7c528290fed.jpg",
+          "width": 640,
+          "height": 640,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 640,
+              "height": 640
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 640,
+          "preferredTileHeight": 640
+        }
+      },
+      "entryID": 8,
+      "randomizedName": "c7410e07-5206-4f68-8716-4a3ff3a01d70",
+      "imageName": "spaghetti_119_jpg.rf.ae83c5dd4200e8e81a84f7c528290fed.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/home/alex/Masters/Imaging/Spaghetti_Detection/raw_images/downloaded_from_source/test/3dprinter-2048px-9396_jpg.rf.3bbf903444f21cb422d441bf4f132264.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "3dprinter-2048px-9396_jpg.rf.3bbf903444f21cb422d441bf4f132264.jpg",
+          "width": 640,
+          "height": 640,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 640,
+              "height": 640
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 640,
+          "preferredTileHeight": 640
+        }
+      },
+      "entryID": 9,
+      "randomizedName": "8d6c477c-3e09-4585-89e8-24a755f886a7",
+      "imageName": "3dprinter-2048px-9396_jpg.rf.3bbf903444f21cb422d441bf4f132264.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/home/alex/Masters/Imaging/Spaghetti_Detection/raw_images/downloaded_from_source/test/imag-11-_jpg.rf.f512616bec911e5eef8f3be8474cb78f.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "imag-11-_jpg.rf.f512616bec911e5eef8f3be8474cb78f.jpg",
+          "width": 640,
+          "height": 640,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 640,
+              "height": 640
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 640,
+          "preferredTileHeight": 640
+        }
+      },
+      "entryID": 10,
+      "randomizedName": "3575958a-4f4f-44e1-9ba2-a5542ff79e5c",
+      "imageName": "imag-11-_jpg.rf.f512616bec911e5eef8f3be8474cb78f.jpg",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/home/alex/Masters/Imaging/Spaghetti_Detection/raw_images/downloaded_from_source/test/spaghetti_51_jpg.rf.f8fec4e854e06f024c85b49de0e8c8e0.jpg",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "spaghetti_51_jpg.rf.f8fec4e854e06f024c85b49de0e8c8e0.jpg",
+          "width": 640,
+          "height": 640,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 640,
+              "height": 640
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 640,
+          "preferredTileHeight": 640
+        }
+      },
+      "entryID": 11,
+      "randomizedName": "728c3494-3253-4895-887d-7d8a026a55c4",
+      "imageName": "spaghetti_51_jpg.rf.f8fec4e854e06f024c85b49de0e8c8e0.jpg",
+      "metadata": {}
+    }
+  ]
+}
