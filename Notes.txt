@@ -1,0 +1,12 @@
+Issues during pre-proecssing:
+usually low quality images -> sharpen
+this is expected and intended as an application of this project would most likely use cheap webcams to monitor 3d printers.
+blurry images are also ok and intended as depending on the printer type, the print is moving
+
+different image size -> also expected and somewhat intended, same reason as above.
+
+background: print-beds sometimes have 5x5 cm grid with white lines. often detected when using edge detection
+            print-beds sometimes have patterns, often getting labeled as spaghetti
+
+filament color: 3d printer filament comes in all colors and sometimes even with glitter. often hard to distinguis from background
+                black filament on a black background, white filament with white grid lines
