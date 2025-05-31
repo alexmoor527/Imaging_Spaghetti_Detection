@@ -35,6 +35,8 @@
             scikit-learn
             torch        # already CUDA-enabled
             torchvision
+	    scikit-image
+	    opencv-python
           ]))
 
           # Keep these only if you plan to compile custom CUDA extensions
